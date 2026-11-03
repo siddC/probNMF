@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use probNMF, please cite it as below."
+title: "probNMF: probabilistic and Bayesian NMF"
+abstract: "Probabilistic and Bayesian NMF: Poisson, negative binomial, Tweedie and ordinal NMF with estimated dispersion, missing data, held-out likelihood and automatic rank selection, with a scikit-learn API."
+type: software
+authors:
+  - family-names: Chauhan
+    given-names: Siddharth
+license: BSD-3-Clause
+repository-code: "https://github.com/siddC/probNMF"
+url: "https://probnmf.readthedocs.io"
+keywords:
+  - "nonnegative matrix factorization"
+  - "nmf"
+  - "bayesian nmf"
+  - "negative binomial"
+  - "poisson"
+  - "tweedie"
+  - "count data"
+  - "automatic relevance determination"
+  - "bayesian"
+  - "probabilistic models"
+  - "missing data"
+  - "scikit-learn"
